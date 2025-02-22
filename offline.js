@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740236414,
+	"version": 1740248615,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -387,6 +387,7 @@
 		"images/sprite196-sheet0.png",
 		"images/sprite196-sheet1.png",
 		"images/sprite197-sheet0.png",
+		"images/land-sheet0.png",
 		"media/music for cartoon.m4a",
 		"media/music for cartoon.ogg",
 		"icon-16.png",
@@ -405,6 +406,7 @@
 		"3~1.webm",
 		"1~1.webm",
 		"5.webm",
-		"login.webm"
+		"login.webm",
+		"login~1.webm"
 	]
 }
