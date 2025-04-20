@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740248615,
+	"version": 1745174692,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -388,6 +388,12 @@
 		"images/sprite196-sheet1.png",
 		"images/sprite197-sheet0.png",
 		"images/land-sheet0.png",
+		"images/sprite198-sheet0.png",
+		"images/sprite199-sheet0.png",
+		"images/sprite200-sheet0.png",
+		"images/sprite201-sheet0.png",
+		"images/sprite202-sheet0.png",
+		"images/sprite203-sheet0.png",
 		"media/music for cartoon.m4a",
 		"media/music for cartoon.ogg",
 		"icon-16.png",

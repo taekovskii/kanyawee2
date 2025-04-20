@@ -26313,17 +26313,17 @@ cr.behaviors.wrap = function(runtime)
 	};
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.Mouse,
-	cr.plugins_.Sprite,
 	cr.plugins_.TiledBg,
-	cr.plugins_.video,
 	cr.plugins_.TextBox,
+	cr.plugins_.Spritefont2,
 	cr.plugins_.Text,
 	cr.plugins_.rex_youtube_player,
-	cr.plugins_.Spritefont2,
 	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
+	cr.plugins_.video,
+	cr.plugins_.Audio,
 	cr.behaviors.Pin,
 	cr.behaviors.Sin,
 	cr.behaviors.Bullet,
